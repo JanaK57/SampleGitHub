@@ -14,6 +14,6 @@ for(int k=0;k<i+1;k++)
 	System.out.print("* ");
 }
 System.out.println();
-System.out.println();
+
 }
 }}
